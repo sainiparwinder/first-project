@@ -1,5 +1,5 @@
 <?php require_once 'header.php'; ?>
-<a href="new.php" class="btn btn-primary">Add New</a>
+<a href="new.php" class="btn btn-primary">Add New Student</a>
 <?php
 
 try {
